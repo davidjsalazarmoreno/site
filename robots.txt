@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://davidjsalazarmoreno.github.io/site/sitemap.xml
+Sitemap: https://davidjsmoreno.dev/sitemap.xml
