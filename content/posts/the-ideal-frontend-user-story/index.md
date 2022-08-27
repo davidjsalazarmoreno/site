@@ -3,7 +3,7 @@ title: "The Ideal Frontend User Story"
 description: "The key aspect an ideal good Frontend User Story should have"
 tags: ["frontend", "agile", "scrum", "user story", "good practices", "software design", "product design", "software development", "Software engineering"]
 date: 2022-08-27T14:00:54-05:00
-draft: true
+draft: false
 ---
 
 ![Alt text](hero.jpg "Image by https://unsplash.com/es/fotos/zfVIh4cX_4c")
