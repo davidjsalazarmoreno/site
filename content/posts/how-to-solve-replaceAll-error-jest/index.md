@@ -1,7 +1,9 @@
 ---
 title: "How to Solve the replaceAll error in Jest?"
+description: "One time I was working on a legacy React project, I ran a recently added unit test and I got this error: TypeError: replaceAll is not a function."
+tags: ["frontend", "software development", "react", "unit testing", "react testing library", "how to", "troubleshooting"]
 date: 2022-09-05T16:09:53-05:00
-draft: true
+draft: false
 ---
 
 One time I was working on a legacy React project, I ran a recently added unit test and I got this error:
