@@ -28,3 +28,8 @@ screen.debug(undefined, Infinity)
 
 [Source](https://github.com/testing-library/react-testing-library/issues/503#issuecomment-853783968)
 
+---
+
+**Please, subscribe to our newsletter to get our amazing content!** 
+<br />
+<iframe src="https://embeds.beehiiv.com/a73a7bea-7c89-48e9-bf8d-65554157c3d4?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;" width="100%"></iframe>
