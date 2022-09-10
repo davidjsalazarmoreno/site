@@ -19,7 +19,7 @@ This is an intensive-turbo-crash course, which means that I'll be assuming you a
 
 ## Table of content (Work in progress)
 
-* [React Architecture.](/posts/react-crash-course-for-angular-developers-react-architecture//)
+* [React Architecture.](/posts/react-crash-course-for-angular-developers-react-architecture/)
 
 ---
 
