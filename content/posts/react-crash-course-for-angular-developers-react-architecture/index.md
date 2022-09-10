@@ -15,7 +15,7 @@ A **JavaScript** [library](http://freecodecamp.org/news/is-react-a-library-or-a-
 
 {{</lead>}}
 
-![Real vs virtual DOM](Real-vs-Virtual-DOM.png.webp "Real vs virtual DOM, by [altexsoft](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/)")
+![Real vs virtual DOM](Real-vs-Virtual-DOM.jpeg "Real vs virtual DOM, by [altexsoft](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/)")
 
 One of the main differences between React and Angular is that with the latter you get a lot of out-the-box: a Router, HTTP request client, Pipes, Directives, etc.
 
