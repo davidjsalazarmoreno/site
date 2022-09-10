@@ -120,3 +120,9 @@ Also, some people would argue that we should not be [dividing](https://www.mount
 The thing is that the structure given in this article serves as a starting point, The real takeaway behind this article is no matter what User Story structure you use the most important thing is: **to use one that allows you to understand the requirement, we must not create software in the darkness assuming a lot of stuff, ask, refine, iterate.**
 
 Happy coding!
+
+---
+
+**Please, subscribe to our newsletter to get our amazing content!** 
+<br />
+<iframe src="https://embeds.beehiiv.com/a73a7bea-7c89-48e9-bf8d-65554157c3d4?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;" width="100%"></iframe>
