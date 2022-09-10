@@ -6,7 +6,7 @@ tags: ["course", "react", "angular", "how to", "architecture", "virtual dom"]
 draft: false
 ---
 
-[Course Index](posts/react-crash-course-for-angular-developers-intro/)
+[Course Index](/posts/react-crash-course-for-angular-developers-index/)
 ---
 
 {{<lead>}}
