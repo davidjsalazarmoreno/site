@@ -15,6 +15,11 @@
   pageRef = "posts"
   weight = 10
 
+[[main]]
+  name = "React Course for Angular Developers"
+  pageRef = "react-crash-course-for-angular-developers-index"
+  weight = 10
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
