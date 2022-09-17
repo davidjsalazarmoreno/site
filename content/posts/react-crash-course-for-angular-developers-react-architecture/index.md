@@ -8,6 +8,7 @@ draft: false
 
 [Course Index](/posts/react-crash-course-for-angular-developers-index/)
 ---
+![React Architecture](hero.png "React Architecture")
 
 {{<lead>}}
 
