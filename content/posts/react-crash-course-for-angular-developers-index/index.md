@@ -5,7 +5,8 @@ description: "This is an intensive-turbo-crash course, for Angular developers wh
 tags: ["course", "react", "angular", "how to", "architecture", "virtual dom"]
 draft: false
 ---
-![Angular and React](AngvsReact.png "Angular and React, by [simform](https://www.simform.com/blog/angular-vs-react/)")
+
+![Angular and React](hero.png "Welcome to the course")
 
 
 I recently talked with a colleague who is an Angular specialist but was looking to learn React to add one more tool to his portfolio. We were talking about similar ways to do the same thing in Angular and React and the idea for this article came: how about a React Crash Course for Angular Developers? In the end, it is Frontend or UI development, most of the knowledge is transferable.
