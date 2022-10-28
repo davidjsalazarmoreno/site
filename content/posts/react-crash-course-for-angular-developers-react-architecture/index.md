@@ -55,7 +55,7 @@ React can update only the necessary parts of the DOM. React’s reputation for p
 Also, this abstracts out the attribute manipulation, event handling, and manual DOM updating that you would otherwise have to use to build your app according.
 
 
-## Next Chapter: Components in React vs Angular (Next week)
+## Next Chapter: [Components in React vs Angular](/posts/react-crash-course-for-angular-developers-components)
 
 For now, this is enough of React’s architecture, later in the course, we’re going to revisit it expanding it with more stuff like React Fiber and other interesting things.
 
