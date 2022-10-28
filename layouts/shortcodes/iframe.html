@@ -1,0 +1,6 @@
+<!-- layouts/shortcodes/iframe.html -->
+<!-- https://stackoverflow.com/questions/68036749/embedding-iframe-in-hugo-site -->
+<iframe width="100%"
+height="300px" 
+{{ with .Get "src" }}src="{{ . }}"{{ end }}
+></iframe>
