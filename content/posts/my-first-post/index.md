@@ -12,11 +12,4 @@ And what’s better for that than a blog/Twitter or youtube channel?, this is ju
 
 Let's get our knowledge to the next level!
 
----
-
-**Please, subscribe to our newsletter to get our amazing content!** 
-<br />
-<iframe src="https://embeds.beehiiv.com/a73a7bea-7c89-48e9-bf8d-65554157c3d4?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;" width="100%"></iframe>
-
-
 
