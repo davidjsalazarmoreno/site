@@ -1,8 +1,21 @@
 {{ if .Site.Params.homepage.showRecent | default false }}
-  <h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
-  {{ range first 5 (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections)).Pages }}
-    {{ partial "article-link.html" . }}
-  {{ end }}
+<h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
+{{ range first 5 (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections)).Pages }}
+{{ partial "article-link.html" . }}
+{{ end }}
 {{ end }}
 
+<article class="mt-8">
+  <p class="font-bold">
+    Please, subscribe to our newsletter to get our amazing content!
+  </p> 
+  <br/>
 
+  <iframe src="https://embeds.beehiiv.com/a73a7bea-7c89-48e9-bf8d-65554157c3d4?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;" width="100%"></iframe>
+  </article>
+  <section>
+</article>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button"
+  data-slug="davidjsmoreno" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee"
+  data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script>
