@@ -4,7 +4,6 @@
 
 baseURL = "https://davidjsmoreno.dev"
 defaultContentLanguage = "en"
-theme = "congo"
 
 enableRobotsTXT = true
 summaryLength = 0
